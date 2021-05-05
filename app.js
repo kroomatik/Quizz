@@ -77,7 +77,7 @@ function afficherResultats(tabCheck) {
         break;
 
         default:
-            'Wops, cas innatendu.';
+            'Wops, cas inattendu.';
 
     }
 
